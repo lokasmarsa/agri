@@ -1,0 +1,12 @@
+--++-----[billing and CVV Swiss ]-----++--
+-------------- Imo Mamouni -----
+last name : mohamed mamouni
+Email  : mohamed.mamouni@gmail.com
+DOB  : 
+card number : 5254255275827827
+Exp date : 12/2000
+Cvv : 577
+-------------- IP Infos ------------
+https://geoiptool.com/en/?ip=::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+---------------------- Imo Mamouni ----------------------
